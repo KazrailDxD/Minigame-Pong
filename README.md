@@ -2,4 +2,4 @@
 
 Though it has not formally been released, I created it purely in my spare time during my studies. 
 
-<img src="https://github.com/KazrailDxD/Fox-Jump-Run/blob/main/Haupmen%C3%BC%20Fox%20%26%20Run.jpg" > 
+<img src="https://github.com/KazrailDxD/Minigame-Pong/blob/main/Pong.jpg" > <img src="https://github.com/KazrailDxD/Minigame-Pong/blob/main/Pong%200.jpg" > <img src="https://github.com/KazrailDxD/Minigame-Pong/blob/main/Pong%201.jpg" > 
